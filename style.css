@@ -1,0 +1,23 @@
+.one-page {
+background-color:violet;
+padding-top: 200px;
+text-align: center;
+padding-bottom: 200px;
+}
+
+.circulo {
+    border-radius: 300px;
+}
+
+.bloques {
+    padding: 30px;
+}
+
+.interno {
+    max-width: 500px;
+}
+
+.columna {
+   display: flex;
+   align-items: center;
+}
